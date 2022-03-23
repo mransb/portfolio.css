@@ -58,7 +58,6 @@ a:hover {
 
 .middle-container {
   background-color: #F8F8FF;
-  margin: 100px 0;
 }
 
 .bottom-container {
@@ -75,7 +74,7 @@ a:hover {
 
 .mountain {
   position: relative;
-  top: 105px;
+  top: 10px;
 }
 
 .top-cloud {
